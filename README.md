@@ -1,11 +1,11 @@
-<p align="center">
- <img src="# Dicas de Leitura ">
-</p>
+<p align="center"># Dicas de Leitura </p>
 
 💡 3 Leituras, 3 Lições: Como expandir sua mente para além do óbvio
 No dia a dia do desenvolvimento profissional, é fácil cair na armadilha de focar apenas nas competências técnicas (hard skills) ou apenas no gerenciamento emocional (soft skills). A verdade? O profissional completo transita entre os dois mundos com maestria.
 
 Três livros que, embora pareçam universos totalmente diferentes, formam o combo perfeito para quem deseja evoluir a mentalidade, a disciplina e a capacidade analítica:
+
+<img width="40" height="30" alt="Deixa pra Lá A Teoria Let Them, de Mel Robbins1" src="https://github.com/user-attachments/assets/96ddd613-609e-4469-ba7d-37cbf37b4e17" />
 
 1️⃣ "Deixa pra lá: A teoria Let Them" – Mel Robbins & Sawyer Robbins
 A lição: Inteligência Emocional e Foco no que importa.
